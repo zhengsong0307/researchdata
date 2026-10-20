@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Databases / data (kept as a separate local backup, not in git)
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+上传包/
+resumes/
+backups/
+
+# Archives / dumps
+*.tgz
+*.tar.gz
+*.gz
+*.zip
+
+# Logs
+*.log
+
+# OS / editor junk
+.DS_Store
+._*
+Thumbs.db
